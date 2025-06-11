@@ -1,0 +1,26 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1{
+  color: black;
+  font-weight: 700px; 
+}
+  
+h2{
+   color: aqua;
+   font-weight:700px ;
+}
+
+h5{
+  color: blue;
+  font-weight: 700px;
+}
+
+footer a{
+    color: crimson;
+}
+
+footer{
+    color: gold;
+}
